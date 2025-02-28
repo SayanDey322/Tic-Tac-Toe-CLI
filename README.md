@@ -9,15 +9,7 @@ A user-friendly interface with clear prompts.
 Displays the game board after each move.
 Declares the winner or a tie at the end of the game.
 # How to Play
-Clone the repository:
-
-git clone https://github.com/prantikm07/Tic-Tac-Toe-CLI.git
-cd tic-tac-toe
-Run the game:
-
-python tictactoe.py
 Follow the prompts:
-
 Choose your symbol (X or O).
 Decide whether you want to play against another player or the computer.
 Take turns making your moves by specifying the row and column.
